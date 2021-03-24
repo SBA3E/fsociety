@@ -1,8 +1,8 @@
 ## Checkboxes
 
-- [ ] Updated fsociety
+- [ ] Updated maroccan Wolf 
 - [ ] Issue does not already exist
-- [ ] fsociety issue, not a tool issue
+- [ ] MAROCCAN Wolf issue, not a tool issue
 
 ## Expected Result
 
