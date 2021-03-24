@@ -12,9 +12,7 @@
 #                                Greet's To
 #                              IcoDz - Canejo
 #                             Tool For Hacking
-#                             Author : Manisso
-
-'''
+#                             Author : SBA3E@MAROCCAN WOLF 
 Imports
 '''
 import sys
