@@ -1,10 +1,10 @@
 @font-face {
-    font-family: "MR ROBOT";
-    src: url("../fonts/MR ROBOT.ttf");
+    font-family: "MAROCCAN WOLF";
+    src: url("../fonts/MAROCCAN WOLF.ttf");
 }
 
 .robot-text {
-    font-family: 'MR ROBOT', 'Lucida Console';
+    font-family: 'MAROCCAN WOLF', 'Lucida Console';
     color: red;
 }
 
@@ -13,7 +13,7 @@ a:hover {
 }
 
 .robot-logo {
-    font-family: 'MR ROBOT', 'Lucida Console';
+    font-family: 'MAROCCAN WOLF', 'Lucida Console';
     color: red;
     font-size: 25px;
 }
